@@ -1,0 +1,7 @@
+base   kato
+author LeChat, Inc.
+email  support@kato.im
+date   2013-09-16
+name   kato plugin
+desc   Notify a kato room on page saves
+url    https://github.com/kato-im/dokuwiki-kato
